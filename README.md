@@ -26,18 +26,18 @@ We're working with synthetic loan data that includes 9,500 loans. For each loan,
 
 **Project Goals**
 Primary Goal: Build a machine learning model that can accurately predict loan defaults
-•	Focus on identifying risky loans (those that won't be paid back)
-•	Handle the challenge of imbalanced data (typically fewer defaults than non-defaults)
+*	Focus on identifying risky loans (those that won't be paid back)
+*	Handle the challenge of imbalanced data (typically fewer defaults than non-defaults)
 Secondary Goals:
-•	Create clear visualizations to understand what makes a loan risky
-•	Build an interactive web app where users can input loan information and get predictions
+*	Create clear visualizations to understand what makes a loan risky
+*	Build an interactive web app where users can input loan information and get predictions
 
 **Success Metrics**
 We'll measure our success using metrics that matter for imbalanced classification:
 
-•	Precision: How many of our predicted defaults are actual defaults?
-•	Recall: What percentage of actual defaults can we catch?
-•	F1-Score: A balance between precision and recall
-•	ROC-AUC: How well can our model distinguish between classes?
+*	Precision: How many of our predicted defaults are actual defaults?
+*	Recall: What percentage of actual defaults can we catch?
+*	F1-Score: A balance between precision and recall
+*	ROC-AUC: How well can our model distinguish between classes?
 
 
