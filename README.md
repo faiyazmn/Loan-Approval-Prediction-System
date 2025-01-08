@@ -2,8 +2,8 @@
 
 **Problem Statement**
 In the world of lending, one of the biggest challenges banks and financial institutions face is predicting whether a borrower will default on their loan. Getting this wrong can be costly:
-•	If we predict someone will pay back but they default, the bank loses money.
-•	If we predict someone will default but they would have paid back, we lose a good customer.
+*	If we predict someone will pay back but they default, the bank loses money.
+*	If we predict someone will default but they would have paid back, we lose a good customer.
 
 **Our Dataset**
 We're working with synthetic loan data that includes 9,578 loans. For each loan, we have 14 different pieces of information:
