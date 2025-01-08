@@ -1,5 +1,4 @@
-# Building an Intelligent Loan Default Prediction System
-## Project Overview: Building an Intelligent Loan Default Prediction System
+# Building an Intelligent Loan Approval Prediction System
 
 **Problem Statement**
 In the world of lending, one of the biggest challenges banks and financial institutions face is predicting whether a borrower will default on their loan. Getting this wrong can be costly:
@@ -7,7 +6,7 @@ In the world of lending, one of the biggest challenges banks and financial insti
 •	If we predict someone will default but they would have paid back, we lose a good customer.
 
 **Our Dataset**
-We're working with synthetic loan data that includes 9,500 loans. For each loan, we have 14 different pieces of information:
+We're working with synthetic loan data that includes 9,578 loans. For each loan, we have 14 different pieces of information:
 1.	'credit.policy': Whether the customer meets credit underwriting criteria
 2.	'purpose': The purpose of the loan (debt consolidation, education, etc.)
 3.	'int.rate': Interest rate on the loan
