@@ -1,4 +1,4 @@
-# Building an Intelligent Loan Approval Prediction System
+# Building a Loan Approval Prediction System
 
 **Problem Statement**
 In the world of lending, one of the biggest challenges banks and financial institutions face is predicting whether a borrower will default on their loan. Getting this wrong can be costly:
